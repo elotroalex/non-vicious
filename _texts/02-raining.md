@@ -4,6 +4,22 @@ title: "Blues de la pluie | Raining Blues"
 number: 2
 ---
 
+## BLues de la pluie
+
+- Aguacero
+- beau musicien
+- au pied d’un arbre dévêtu
+- parmi les harmonies perdues
+- près de nos mémoires défaites
+- parmi nos mains de défaite
+- et des peuples de force étrange
+- nous laissions pendre nos yeux
+- et natale
+- dénouant la longe d’une douleur
+- nous pleurions
+
+---
+
 ## Raining Blues
 
 - Aguacero[^fn1]
