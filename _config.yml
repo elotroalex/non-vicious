@@ -1,0 +1,51 @@
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               Non-Vicious Circle
+tagline:             '20 Poems by Aimé Césaire'
+description:         "A revised edition of Gregson Davis' classic edition of twenty Césaire poems"
+url:                 ''
+baseurl:             '/non-vicious'
+
+# About/contact
+editor:
+- name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
+
+- name:              Gregson Davis
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
+
+# Permalinks
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Custom vars
+version:          0.1
+
+# Exclusions from the final site
+exclude: [optional, vendor]
+
+
