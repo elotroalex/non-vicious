@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Non-Vicious Circle"
 ---
 <div class="introduction">
 
@@ -11,16 +11,23 @@ title: "Ed."
 
 <div class="toc">
   <h2>Table of Contents</h2>
+  <h3>Preface</h3>
+  <ul class="post">
+
+  </ul>
+  <h3>20 Poems</h3>
   <ul class="post">
   {% for item in site.texts do %}
-  
+    {% if item.number %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
     </li>
+    {% endif %}
   {% endfor %}
-  </ul>  
+
+  </ul> 
 
 </div>
 

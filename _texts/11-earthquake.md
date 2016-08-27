@@ -1,6 +1,7 @@
 ---
 layout: poem
-title: Earthquake
+title: "Séisme | Earthquake"
+number: 11
 ---
 
 - all those tall walls of dream

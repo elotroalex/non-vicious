@@ -1,7 +1,36 @@
 ---
 layout: poem
-title: Incantation
+title: "Magique | Incantation"
+number: 1
 ---
+
+## Magique
+
+- avec une lèche sur un quignon de terre
+- vous bêtes qui sifflez sur le visage de cette morte
+- vous libres fougères parmi les roches assassines
+- à l'extrême de l'île parmi les conques trops vastes pour leur destin
+- lorsque midi colle ses mauvais timbres sur les plis tempétueux de la louve
+- hors cadre de science nulle
+- et la bouche aux parois du nid suffète des îles englouties comme un sou
+
+- avec une lèche de ciel sur un quignon de terre
+- profète des îles oubliées comme un sou
+- sans sommeil sans veille sans doigts sans palancre
+- quand la tornade passe rongeur du pain des cases
+
+- vous bêtes qui sifflez sur le visage de cette morte
+- la belle once de la luxure et la coquille operculée
+- mol glissement des grains de l'été que nous fûmes
+- belles chairs à transpercer du trident des aras
+- lorsque les étoiles chancelières de cinq branches
+- trèfles au ciel comme des gouttes de lait chu
+- réajustent un dieu noir mal né de son tonnerre
+
+---
+
+## Incantation
+
 
 - with a sliver of sky on a hunk of earth
 - you brutes sniffling on this dead woman's face
