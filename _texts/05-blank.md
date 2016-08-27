@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Blank to Fill on the Visa of Pollen"
+title: "Blanc à remplir sur la carte voyageuse du pollen | Blank to Fill on the Visa of Pollen"
 number: 5
 ---
 
