@@ -4,6 +4,7 @@ title: "Mort à l'aube | Dead at Dawn"
 number: 4
 ---
 
+## Dead at Dawn
 
 - A fighter he blows upon embers[^fn1]
 - his face manhandled by the night
