@@ -82,7 +82,7 @@ Instead of regarding the assassinated sun merely as an image of death, Césaire 
 
 ---
 
-[^fn1]: The prostrate female corpse personifies Martinique in the grip of spiritual and socioeconomic inertia (cf. *Cahier*, pp. 42-43). The images of death and violence in lines 2-3 are consonant with the overall title of the earlier collection.
+[^fn1]: *Lines 1-3*: The prostrate female corpse personifies Martinique in the grip of spiritual and socioeconomic inertia (cf. *Cahier*, pp. 42-43). The images of death and violence in lines 2-3 are consonant with the overall title of the earlier collection.
 
 [^fn2]: Magic and science, nonrational and rational modalities of knowledge and control, are conceived as antithetical in the mytho-poeic ssytem of negritude (see *Cahier*, pp. 53-54). In his epistemological essay "Poésie et connaissance" (Poetry and knowledge), Césaire has stated that the natural sciences offer a superficial and impoverished view of the world: "Physics classifies and explains, but the essence of things eludes it. The natural sciences classify, but the *quid proprium* of things eludes them. As for mathematics, what eludes its abstract and logical activity is the real. In sum, scientific knowledge numbers, measures, classifies, and kills." (Césaire 1945a, p. 157.) In contrast, poetic knowledge is intrinsically rich and furnishes an antidote to the reductionism of science: "Man, unsatisfied, next looked elsewhere for salvation, which exists here in abundance. And man, little by little, became aware that besides this scientific and undernourished knowledge there existed another sort of knowledge. A knowledge that satiates." (Ibid, p. 158.) In this polarization, magic is aligned with poetry.
 
