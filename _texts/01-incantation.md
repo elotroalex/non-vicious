@@ -6,7 +6,7 @@ number: 1
 
 ## Magique
 
-- avec une lèche sur un quignon de terre
+- avec une lèche de ciel sur un quignon de terre
 - vous bêtes qui sifflez sur le visage de cette morte
 - vous libres fougères parmi les roches assassines
 - à l'extrême de l'île parmi les conques trops vastes pour leur destin
