@@ -50,7 +50,7 @@ The reference to a monument in the title connects the poem generically with a lo
 
 ## Footnotes
 
-[^fn1]: Césaire causes the images of statue and island to converge ("poussée en plein océan"). In adition to his primary reference to Martinique, Césaire may also obliquely allude to Hearn's origin on the Greek island Leucadia (Santa Maura), whose name is reflected in the pen name Lafcadio. 
+[^fn1]: Césaire causes the images of statue and island to converge ("poussée en plein océan"). In addition to his primary reference to Martinique, Césaire may also obliquely allude to Hearn's origin on the Greek island Leucadia (Santa Maura), whose name is reflected in the pen name Lafcadio. 
 
 [^fn2]: Assault by the elements is one aspect of the topos of the poem as a perennial monument; compare Horace, *Odes* 3.30: "Exegi monumentum aere perennius . . . quod non imber edax, non Aquilo impotens / possit diruere" (I have set up a monument more lasting than bronze . . . which neither the greedy rainshower nor the uncontrolled east wind / can destroy). 
 
